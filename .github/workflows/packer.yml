@@ -1,4 +1,4 @@
-# Packer CICD
+# Packer CICD AMI
 name: Packer Build
 
 on:
