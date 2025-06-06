@@ -1,4 +1,4 @@
-# Packer CICD 
+# Packer CICD AMI
 packer {
   required_plugins {
     amazon = {
