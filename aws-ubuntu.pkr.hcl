@@ -1,3 +1,4 @@
+# Packer CICD 
 packer {
   required_plugins {
     amazon = {
